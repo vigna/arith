@@ -1,3 +1,3 @@
-module github.com/vigna/arith
+module arith
 
 go 1.19
